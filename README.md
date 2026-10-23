@@ -1,3 +1,5 @@
-# 俞方承 · FDE 个人作品集
+# 俞方承 · FDE 作品集
 
-此仓库仅保存个人作品集已构建的公开网页文件。
+Public portfolio website: https://jay223106.github.io/
+
+This repository contains only the published static website, media, and font licenses.
